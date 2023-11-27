@@ -1,5 +1,5 @@
 <HTML>
   <body>
 <h1> CatPhotoApp </h1>
-<h2> Cat Photos </h2>
+<h4> Cat Photos </h4>
 <p> to see more cat photos take a look on our gallery!</p>
