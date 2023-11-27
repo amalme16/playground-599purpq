@@ -1,2 +1,3 @@
-# Welcome!
-print('hello world') #anything we want to print will be inside single quotes 
+<HTML>
+  <body>
+<h1>CatPhotoApp</h1>
