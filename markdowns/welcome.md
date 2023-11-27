@@ -5,5 +5,5 @@
     <h4> Cat Photos </h4>
     <!-- TODO: Add link to Cat photos -->
     <p> to see more cat photos take a look on our gallery!</p>
-    <a href='https://images.app.goo.gl/WRmvguxeBrKWKSFz7'></a>
+    <a href='https://images.app.goo.gl/WRmvguxeBrKWKSFz7'>link to the cat pictures</a>
 </main>
