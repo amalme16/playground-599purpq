@@ -1,9 +1,9 @@
-<HTML>
-  <body>
-  <main>
-    <h1> CatPhotoApp </h1>
-    <h4> Cat Photos </h4>
-    <!-- TODO: Add link to Cat photos -->
-    <p> to see more cat photos take a look on our gallery!</p>
-    <a href='https://images.app.goo.gl/WRmvguxeBrKWKSFz7'>link to the cat pictures</a>
-</main>
+<html>
+<body>
+<main>
+     <h1>amal ek bakkouri </h1>
+     <h3>beautiful </h3>
+     <!--TODO:add link to photos -->
+     <p> she's a really beautiful girl </p>
+     <img src="WhatsApp Image 2023-11-25 à 17.54.07_431a0fa2.jpg" alt="an image">
+     <a href="WhatsApp Image 2023-11-25 à 17.54.07_431a0fa2.jpg">link to photos </a>
