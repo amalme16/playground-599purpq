@@ -24,6 +24,8 @@
 <label> <input type="radio" id ="hair" name="hair-tatoos-mole" value="hair">Hair</label>
 <label> <input type="radio" id ="tatoos" name="hair-tatoos-mole" value="tatoos">Tatoos</label>
 <label> <input type="radio" id ="mole" name="hair-tatoos-mole" value="mole">Mole</label>
+<input type="text" name="yourfavoritedancerink-pop" placholder="your favorite dancer in k-pop" required>
+<button type="submit">submit</button>
 </main>
 </body>
 </html>
