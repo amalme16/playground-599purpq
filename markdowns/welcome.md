@@ -21,11 +21,13 @@
 </section>
 <section>
 <h2> what do you like about soojin ? </h2>
+<fieldset>
 <label> <input type="radio" id ="hair" name="hair-tatoos-mole" value="hair">Hair</label>
 <label> <input type="radio" id ="tatoos" name="hair-tatoos-mole" value="tatoos">Tatoos</label>
 <label> <input type="radio" id ="mole" name="hair-tatoos-mole" value="mole">Mole</label>
+</fieldset>
 <input type="text" name="soojin" placholder="soojin" required>
-<button type="search">search</button>
+<button type="submit">submit</button>
 </main>
 </body>
 </html>
