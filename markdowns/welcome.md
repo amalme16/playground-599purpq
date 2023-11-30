@@ -25,7 +25,7 @@
 <label> <input type="radio" id ="tatoos" name="hair-tatoos-mole" value="tatoos">Tatoos</label>
 <label> <input type="radio" id ="mole" name="hair-tatoos-mole" value="mole">Mole</label>
 <input type="text" name="soojin" placholder="soojin" required>
-<button type="submit">submit</button>
+<button type="search">search</button>
 </main>
 </body>
 </html>
